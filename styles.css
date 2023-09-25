@@ -1,0 +1,102 @@
+
+*{
+    margin-left: 0px;
+    padding: 0px;
+    
+    color:white;
+}
+.black{
+    background-color: rgb(7, 7, 7);
+}
+.skill{
+    margin-left: 30px;
+    margin-right: 30px;
+}
+.projects{
+ margin-left: 30px;
+ margin-right: 30px;
+}
+.image{
+    height: 260px;
+    width: 230px;
+    margin: 20px;
+    padding: 10px;
+    
+}
+.hover:hover{
+    color: red;
+    transition: 0.2s ease-out;
+}
+.flex{
+    display: flex;
+    margin: 10px;
+    justify-content: space-between;
+}
+.about{
+    margin-top: 10px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+.left{
+    max-width: 460px;
+    margin-left: 70px;
+    height: fit-content;
+}
+.right{
+    margin-top: 20px;
+    margin-right: 20px;
+    
+}
+h1{
+    color: red;
+    margin-left: 50px;
+    margin-right: 30px;
+}
+
+
+.contact{
+    margin-left: 30px;
+    margin-right: 30px;
+}
+.coding_profiles{
+    margin-left: 30px;
+    margin-right: 30px;
+}
+.red{
+    color: red;
+}
+.projects img{
+    width: 200px;
+    height: 200px;
+    padding: 10px;
+
+}
+
+li{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+.about img{
+
+    max-width: 340px;
+}
+.navbar{
+    height: 70px;
+    
+    gap: 40px;
+ 
+}
+.navbar{
+    height: 70px;
+    color: black;
+   
+    gap: 40px;
+ 
+}
+.navbar a{
+    color:blue;
+    font-size: x-large;
+}
+
